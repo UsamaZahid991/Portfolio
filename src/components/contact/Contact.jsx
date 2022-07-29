@@ -41,7 +41,7 @@ const Contact = () => {
             <BsWhatsapp className='contact__option-icon'/>
           <h4>Whatsapp</h4>
           <h5>+923485121989</h5>
-          <a href='https://wa.me/+923485121989'>Send a Message (Web)</a>
+          <a href='https://wa.me/+923485121989'>Send a Message</a>
           <QRCodeCanvas className='QR' includeMargin="true" size={120} level={"M"} value='https://wa.me/+923485121989' />
           </article>
 
